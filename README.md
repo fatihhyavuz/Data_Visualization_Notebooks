@@ -1,5 +1,5 @@
 # Matplotlib-Notebooks
-![Uploading image.png…]()
+
 
 
 in these notebooks I have created efficient content for those who are just starting to learn matplotlib or who want to do a quick review, I believe it will be useful for everyone 
