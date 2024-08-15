@@ -4,8 +4,8 @@ in these notebooks I have created efficient content for those who are just start
 
 ## Exercise Notebooks
 
-1.[Matplotlib-01] https://github.com/fatihhyavuz/Matplotlib-Notebooks/blob/main/Maplotlib_01.ipynb
-2.[Matplotlib-02] https://github.com/fatihhyavuz/Matplotlib-Notebooks/blob/main/Maplotlib_02.ipynb 
-3.[Matplotlib-03] https://github.com/fatihhyavuz/Matplotlib-Notebooks/blob/main/Metplotlib_3.ipynb 
+1.[Matplotlib-01](https://github.com/fatihhyavuz/Matplotlib-Notebooks/blob/main/Maplotlib_01.ipynb)
+2.[Matplotlib-02](https://github.com/fatihhyavuz/Matplotlib-Notebooks/blob/main/Maplotlib_02.ipynb)
+3.[Matplotlib-03](https://github.com/fatihhyavuz/Matplotlib-Notebooks/blob/main/Metplotlib_3.ipynb) 
 
 And more will be added soon!
