@@ -2,7 +2,7 @@
 
 Welcome to the **Visualization Notebooks** repository! This repository is designed for beginners and those who want to quickly refresh their knowledge on popular Python visualization libraries such as **Seaborn**, **Matplotlib**, **Plotly**, and **Bokeh**.
 <p align="center">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="200" height="80" style="margin-right: 20px;"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="200" height="80" style="margin-right: 40px;"/>
   <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="200" height="80" style="margin-right: 20px;"/>
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="150" height="80" style="margin-right: 20px;"/>
   <img src="https://static.bokeh.org/branding/logos/bokeh-logo.svg" alt="Bokeh" width="200" height="80" style="margin-right: 20px;"/>
