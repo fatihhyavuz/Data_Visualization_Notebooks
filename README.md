@@ -1,7 +1,7 @@
 # 📊 Visualization Notebooks for Beginners and Quick Recaps
 
 Welcome to the **Visualization Notebooks** repository! This repository is designed for beginners and those who want to quickly refresh their knowledge on popular Python visualization libraries such as **Seaborn**, **Matplotlib**, **Plotly**, and **Bokeh**.
-
+# ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) ![Matplotlib](https://matplotlib.org/_static/logo2_compressed.svg) ![Plotly](https://images.plot.ly/logo/new-branding/plotly-logomark.png) ![Bokeh](https://static.bokeh.org/branding/logos/bokeh-logo.svg)
 ## 📚 Available Notebooks
 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white) 
@@ -60,7 +60,7 @@ We welcome contributions! If you'd like to add a new notebook, improve existing 
 
 ## 📧 Contact
 
-If you have any questions or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, please reach out to me at [fatihyvz993@gmail.com](fatihyvz993@gmail.com).
 
 ---
 
