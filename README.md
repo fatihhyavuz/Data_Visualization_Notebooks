@@ -61,7 +61,7 @@ Explore the following notebooks to get started with data visualization:
 
 ## 📝 Contributing
 
-We welcome contributions! If you'd like to add a new notebook, improve existing ones, or fix issues, please feel free to open a pull request.
+We welcome contributions! If you'd like to add a new notebook, improve existing ones, or fix issues, please feel free to open a pull request..
 
 ## 📧 Contact
 
