@@ -32,7 +32,6 @@ Explore the following notebooks to get started with data visualization:
 ### 3. Plotly
 [![Plotly](https://img.shields.io/badge/Plotly-00FF00?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/fatihhyavuz/Data_Visualization_Notebooks/tree/main/Plotly-Notebook)
 - Interactive plots with Plotly
-- Creating 3D plots and maps
 - Animations with Plotly
 
 ### 4. Bokeh
