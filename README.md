@@ -4,7 +4,7 @@ Welcome to the **Visualization Notebooks** repository! This repository is design
 <p align="center" style="padding: 0 20px;">
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="200" height="80" style="margin-right: 40px !important;"/>
   <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="200" height="80" style="margin-right: 40px !important;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Plotly-logo-01.png/600px-Plotly-logo-01.png" alt="Plotly" width="200" height="80" style="margin-right: 40px !important;"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="150" height="80" style="margin-right: 40px !important;"/>
   <img src="https://static.bokeh.org/branding/logos/bokeh-logo.svg" alt="Bokeh" width="200" height="80" style="margin-right: 40px !important;"/>
 </p>
 
